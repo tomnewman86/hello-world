@@ -1,2 +1,3 @@
 # hello-world
 Somewhere to start...
+I am new to programming and I am exploring the different resources available online
